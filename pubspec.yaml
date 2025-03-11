@@ -38,6 +38,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   geolocator: ^10.1.0
   http: ^0.13.6
+  palette_generator: ^0.3.3+6
+  image_pixels: ^4.0.2
 
 dev_dependencies:
   flutter_test:
